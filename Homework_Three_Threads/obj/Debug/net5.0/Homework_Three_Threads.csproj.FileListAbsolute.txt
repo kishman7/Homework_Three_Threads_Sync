@@ -1,0 +1,32 @@
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.exe
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.deps.json
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.dll
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\ref\Homework_Three_Threads.dll
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.pdb
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.dll
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\ref\Homework_Three_Threads.dll
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.pdb
+F:\YURKO\SHAG\Project C#\21_19092021_Lab_WPF(Controls, Expander)_System Prog(Рефлексія, багатопотоковість, AppDomain, Threads)\Homework_Three_Threads\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.genruntimeconfig.cache
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.exe
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.deps.json
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.runtimeconfig.json
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.runtimeconfig.dev.json
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.dll
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\ref\Homework_Three_Threads.dll
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\bin\Debug\net5.0\Homework_Three_Threads.pdb
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.GeneratedMSBuildEditorConfig.editorconfig
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.AssemblyInfoInputs.cache
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.AssemblyInfo.cs
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.dll
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\ref\Homework_Three_Threads.dll
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.pdb
+f:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_Three_Threads_Sync\Homework_Three_Threads\obj\Debug\net5.0\Homework_Three_Threads.genruntimeconfig.cache
